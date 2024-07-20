@@ -1,0 +1,17 @@
+{
+    "create_stamp": "202306120000", 
+    "editor_stamp": "202306120000", 
+    "encrypt_sections": [
+        "archive_data", 
+        "global_archive_data", 
+        "archive_table_data"
+    ], 
+    "entry_map": {
+        "id": 175897143754968813980231418450497145602, 
+        "name": "BaseModel"
+    }, 
+    "phy_mode": "2.5d", 
+    "project_id": 257584789327109558678799815346943707623, 
+    "project_name": "Project_BaseModel", 
+    "version": 7
+}

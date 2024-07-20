@@ -1,0 +1,31 @@
+{
+    "variable_dict": {
+        "BOOLEAN": {}, 
+        "INTEGER": {
+            "Left": 0
+        }, 
+        "UNIT_ENTITY": {
+            "Player Unit": 0
+        }
+    }, 
+    "variable_group_info": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "Player Unit", 
+                "(Player Unit)"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "Left", 
+                "(Left)"
+            ]
+        }
+    ], 
+    "variable_length_dict": {
+        "Left": 0, 
+        "Player Unit": 10
+    }
+}

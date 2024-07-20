@@ -1,0 +1,60 @@
+{
+    "cycle_time": 0, 
+    "description": 510569864, 
+    "disappear_when_dead": true, 
+    "effect_button": null, 
+    "get_effect_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "halo_effect": 201388830, 
+    "ign_inf_unit_tag": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "ign_inf_unit_type": 2, 
+    "influence_rng": 350.0, 
+    "is_influence_self": true, 
+    "key": 201332030, 
+    "kv": {}, 
+    "layer_change_of_cover": 1, 
+    "layer_max": 1, 
+    "lose_effect_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "material_alpha": 1.0, 
+    "material_change": 0, 
+    "material_color": {
+        "__tuple__": true, 
+        "items": [
+            255, 
+            255, 
+            255
+        ]
+    }, 
+    "material_color_intensity": 1.0, 
+    "model": 100032, 
+    "modifier_cover_type": 1, 
+    "modifier_effect": 1, 
+    "modifier_icon": 106375, 
+    "modifier_type": 1, 
+    "name": -1033042817, 
+    "same_origin_cover": true, 
+    "shield_change_of_cover": 2, 
+    "shield_type": 2, 
+    "shield_value": 100, 
+    "show_on_ui": false, 
+    "sound_event_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "suffix": "", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "target_allow": 5, 
+    "time_change_of_cover": 2, 
+    "uid": "201332030"
+}

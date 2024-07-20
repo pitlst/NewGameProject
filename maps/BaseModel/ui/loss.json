@@ -1,0 +1,103 @@
+{
+    "adapt_mode": 2, 
+    "anim_data": {}, 
+    "children": [
+        {
+            "adapter_option": [
+                true, 
+                false, 
+                false, 
+                false, 
+                150.0, 
+                538.0, 
+                604.0, 
+                604.0
+            ], 
+            "children": [], 
+            "event_list": [], 
+            "image": 107714, 
+            "name": "image_22", 
+            "open_adapter": true, 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    734.0, 
+                    50.0, 
+                    67.963, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    712.0, 
+                    392.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "image_22"
+        }, 
+        {
+            "adapter_option": [
+                true, 
+                false, 
+                false, 
+                false, 
+                560.0, 
+                457.0, 
+                837.0, 
+                837.0
+            ], 
+            "children": [], 
+            "event_list": [
+                {
+                    "action_list": [], 
+                    "enabled": true, 
+                    "name": "Defeat_Back_Hall", 
+                    "sound_id": null, 
+                    "type": 11
+                }
+            ], 
+            "name": "button_8", 
+            "normal_picture": 107525, 
+            "normal_text": {
+                "__tuple__": true, 
+                "items": [
+                    "\u786e\u5b9a", 
+                    false
+                ]
+            }, 
+            "open_adapter": true, 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    488.5, 
+                    50.0, 
+                    45.2315, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": [
+                246.0, 
+                63.0
+            ], 
+            "type": 1, 
+            "uid": "button_8"
+        }
+    ], 
+    "name": "loss", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "loss", 
+    "visible": false, 
+    "zorder": 400
+}

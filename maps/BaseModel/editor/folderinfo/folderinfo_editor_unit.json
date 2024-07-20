@@ -1,0 +1,889 @@
+{
+ "f": [
+  {
+   "__tuple__": true, 
+   "items": [
+    "", 
+    0, 
+    2147483646, 
+    "code_explorer_official_root_folder_name"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483646", 
+    0, 
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    "\u82f1\u96c4"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483646", 
+    1, 
+    "wYVIUa5pEe2ALgD-WTDYDh", 
+    "Heroes"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483646", 
+    2, 
+    "DXz-ka62Ee24DAD-WTDYDg", 
+    "Creatures"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483646", 
+    3, 
+    "w4tnAK61Ee23WwD-WTDYDm", 
+    "Monsters"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483646", 
+    4, 
+    "l7wwIc07EeyKj6S7bUG2Ii", 
+    "Heroes"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483646", 
+    5, 
+    "Njx-np6LEeyFL6S7bUruzf", 
+    "Monsters"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483646", 
+    6, 
+    "wFTXodfeEeyNNAAFmjx6AI", 
+    "Buildings"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483646", 
+    7, 
+    "5QLaHs3KEey2QAD-b5T0QE", 
+    "Special"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483646", 
+    8, 
+    "xJp1z8FoEe2uIQC+Q4yk9Q", 
+    "\u521b\u751f\u7269"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "", 
+    1, 
+    2147483647, 
+    "code_explorer_custom_root_folder_name"
+   ]
+  }
+ ], 
+ "d": {
+  "134274912": {
+   "__tuple__": true, 
+   "items": [
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    0
+   ]
+  }, 
+  "134241735": {
+   "__tuple__": true, 
+   "items": [
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    1
+   ]
+  }, 
+  "134219749": {
+   "__tuple__": true, 
+   "items": [
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    2
+   ]
+  }, 
+  "134240279": {
+   "__tuple__": true, 
+   "items": [
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    3
+   ]
+  }, 
+  "134222661": {
+   "__tuple__": true, 
+   "items": [
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    4
+   ]
+  }, 
+  "134275571": {
+   "__tuple__": true, 
+   "items": [
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    5
+   ]
+  }, 
+  "134265083": {
+   "__tuple__": true, 
+   "items": [
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    6
+   ]
+  }, 
+  "134240721": {
+   "__tuple__": true, 
+   "items": [
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    7
+   ]
+  }, 
+  "134272952": {
+   "__tuple__": true, 
+   "items": [
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    8
+   ]
+  }, 
+  "134240731": {
+   "__tuple__": true, 
+   "items": [
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    9
+   ]
+  }, 
+  "134242658": {
+   "__tuple__": true, 
+   "items": [
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    10
+   ]
+  }, 
+  "134269059": {
+   "__tuple__": true, 
+   "items": [
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    11
+   ]
+  }, 
+  "134279795": {
+   "__tuple__": true, 
+   "items": [
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    12
+   ]
+  }, 
+  "134230062": {
+   "__tuple__": true, 
+   "items": [
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    13
+   ]
+  }, 
+  "134218426": {
+   "__tuple__": true, 
+   "items": [
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    14
+   ]
+  }, 
+  "134279196": {
+   "__tuple__": true, 
+   "items": [
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    15
+   ]
+  }, 
+  "134242543": {
+   "__tuple__": true, 
+   "items": [
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    16
+   ]
+  }, 
+  "134257382": {
+   "__tuple__": true, 
+   "items": [
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    17
+   ]
+  }, 
+  "134220068": {
+   "__tuple__": true, 
+   "items": [
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    18
+   ]
+  }, 
+  "134224181": {
+   "__tuple__": true, 
+   "items": [
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    19
+   ]
+  }, 
+  "134238059": {
+   "__tuple__": true, 
+   "items": [
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    20
+   ]
+  }, 
+  "134265927": {
+   "__tuple__": true, 
+   "items": [
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    21
+   ]
+  }, 
+  "134253585": {
+   "__tuple__": true, 
+   "items": [
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    22
+   ]
+  }, 
+  "134250762": {
+   "__tuple__": true, 
+   "items": [
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    23
+   ]
+  }, 
+  "134228855": {
+   "__tuple__": true, 
+   "items": [
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    24
+   ]
+  }, 
+  "134228282": {
+   "__tuple__": true, 
+   "items": [
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    25
+   ]
+  }, 
+  "134226901": {
+   "__tuple__": true, 
+   "items": [
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    26
+   ]
+  }, 
+  "134280096": {
+   "__tuple__": true, 
+   "items": [
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    27
+   ]
+  }, 
+  "134233553": {
+   "__tuple__": true, 
+   "items": [
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    28
+   ]
+  }, 
+  "134259608": {
+   "__tuple__": true, 
+   "items": [
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    29
+   ]
+  }, 
+  "134224570": {
+   "__tuple__": true, 
+   "items": [
+    "vLNMHsFoEe2PzwC+Q4yk9T", 
+    30
+   ]
+  }, 
+  "201357882": {
+   "__tuple__": true, 
+   "items": [
+    "wYVIUa5pEe2ALgD-WTDYDh", 
+    0
+   ]
+  }, 
+  "201366801": {
+   "__tuple__": true, 
+   "items": [
+    "wYVIUa5pEe2ALgD-WTDYDh", 
+    1
+   ]
+  }, 
+  "201388595": {
+   "__tuple__": true, 
+   "items": [
+    "wYVIUa5pEe2ALgD-WTDYDh", 
+    2
+   ]
+  }, 
+  "201352556": {
+   "__tuple__": true, 
+   "items": [
+    "wYVIUa5pEe2ALgD-WTDYDh", 
+    3
+   ]
+  }, 
+  "201346882": {
+   "__tuple__": true, 
+   "items": [
+    "wYVIUa5pEe2ALgD-WTDYDh", 
+    4
+   ]
+  }, 
+  "201373993": {
+   "__tuple__": true, 
+   "items": [
+    "wYVIUa5pEe2ALgD-WTDYDh", 
+    5
+   ]
+  }, 
+  "201385562": {
+   "__tuple__": true, 
+   "items": [
+    "wYVIUa5pEe2ALgD-WTDYDh", 
+    6
+   ]
+  }, 
+  "201347871": {
+   "__tuple__": true, 
+   "items": [
+    "DXz-ka62Ee24DAD-WTDYDg", 
+    0
+   ]
+  }, 
+  "201369684": {
+   "__tuple__": true, 
+   "items": [
+    "DXz-ka62Ee24DAD-WTDYDg", 
+    1
+   ]
+  }, 
+  "201348763": {
+   "__tuple__": true, 
+   "items": [
+    "DXz-ka62Ee24DAD-WTDYDg", 
+    2
+   ]
+  }, 
+  "201368618": {
+   "__tuple__": true, 
+   "items": [
+    "DXz-ka62Ee24DAD-WTDYDg", 
+    3
+   ]
+  }, 
+  "201378855": {
+   "__tuple__": true, 
+   "items": [
+    "DXz-ka62Ee24DAD-WTDYDg", 
+    4
+   ]
+  }, 
+  "201372984": {
+   "__tuple__": true, 
+   "items": [
+    "DXz-ka62Ee24DAD-WTDYDg", 
+    5
+   ]
+  }, 
+  "201337928": {
+   "__tuple__": true, 
+   "items": [
+    "DXz-ka62Ee24DAD-WTDYDg", 
+    6
+   ]
+  }, 
+  "201391110": {
+   "__tuple__": true, 
+   "items": [
+    "w4tnAK61Ee23WwD-WTDYDm", 
+    0
+   ]
+  }, 
+  "201377138": {
+   "__tuple__": true, 
+   "items": [
+    "w4tnAK61Ee23WwD-WTDYDm", 
+    1
+   ]
+  }, 
+  "201330581": {
+   "__tuple__": true, 
+   "items": [
+    "w4tnAK61Ee23WwD-WTDYDm", 
+    2
+   ]
+  }, 
+  "201329291": {
+   "__tuple__": true, 
+   "items": [
+    "w4tnAK61Ee23WwD-WTDYDm", 
+    3
+   ]
+  }, 
+  "201374946": {
+   "__tuple__": true, 
+   "items": [
+    "w4tnAK61Ee23WwD-WTDYDm", 
+    4
+   ]
+  }, 
+  "201360707": {
+   "__tuple__": true, 
+   "items": [
+    "w4tnAK61Ee23WwD-WTDYDm", 
+    5
+   ]
+  }, 
+  "201359440": {
+   "__tuple__": true, 
+   "items": [
+    "w4tnAK61Ee23WwD-WTDYDm", 
+    6
+   ]
+  }, 
+  "201328319": {
+   "__tuple__": true, 
+   "items": [
+    "l7wwIc07EeyKj6S7bUG2Ii", 
+    0
+   ]
+  }, 
+  "201370082": {
+   "__tuple__": true, 
+   "items": [
+    "l7wwIc07EeyKj6S7bUG2Ii", 
+    1
+   ]
+  }, 
+  "10000": {
+   "__tuple__": true, 
+   "items": [
+    "l7wwIc07EeyKj6S7bUG2Ii", 
+    2
+   ]
+  }, 
+  "201340447": {
+   "__tuple__": true, 
+   "items": [
+    "l7wwIc07EeyKj6S7bUG2Ii", 
+    3
+   ]
+  }, 
+  "201348060": {
+   "__tuple__": true, 
+   "items": [
+    "l7wwIc07EeyKj6S7bUG2Ii", 
+    4
+   ]
+  }, 
+  "201374418": {
+   "__tuple__": true, 
+   "items": [
+    "l7wwIc07EeyKj6S7bUG2Ii", 
+    5
+   ]
+  }, 
+  "201344134": {
+   "__tuple__": true, 
+   "items": [
+    "l7wwIc07EeyKj6S7bUG2Ii", 
+    6
+   ]
+  }, 
+  "201340571": {
+   "__tuple__": true, 
+   "items": [
+    "l7wwIc07EeyKj6S7bUG2Ii", 
+    7
+   ]
+  }, 
+  "201367872": {
+   "__tuple__": true, 
+   "items": [
+    "l7wwIc07EeyKj6S7bUG2Ii", 
+    8
+   ]
+  }, 
+  "201373450": {
+   "__tuple__": true, 
+   "items": [
+    "l7wwIc07EeyKj6S7bUG2Ii", 
+    9
+   ]
+  }, 
+  "201386498": {
+   "__tuple__": true, 
+   "items": [
+    "l7wwIc07EeyKj6S7bUG2Ii", 
+    10
+   ]
+  }, 
+  "201343451": {
+   "__tuple__": true, 
+   "items": [
+    "l7wwIc07EeyKj6S7bUG2Ii", 
+    11
+   ]
+  }, 
+  "201357159": {
+   "__tuple__": true, 
+   "items": [
+    "l7wwIc07EeyKj6S7bUG2Ii", 
+    12
+   ]
+  }, 
+  "201340924": {
+   "__tuple__": true, 
+   "items": [
+    "l7wwIc07EeyKj6S7bUG2Ii", 
+    13
+   ]
+  }, 
+  "201355961": {
+   "__tuple__": true, 
+   "items": [
+    "l7wwIc07EeyKj6S7bUG2Ii", 
+    14
+   ]
+  }, 
+  "201351881": {
+   "__tuple__": true, 
+   "items": [
+    "l7wwIc07EeyKj6S7bUG2Ii", 
+    15
+   ]
+  }, 
+  "201334735": {
+   "__tuple__": true, 
+   "items": [
+    "Njx-np6LEeyFL6S7bUruzf", 
+    0
+   ]
+  }, 
+  "201358143": {
+   "__tuple__": true, 
+   "items": [
+    "Njx-np6LEeyFL6S7bUruzf", 
+    1
+   ]
+  }, 
+  "201357218": {
+   "__tuple__": true, 
+   "items": [
+    "Njx-np6LEeyFL6S7bUruzf", 
+    2
+   ]
+  }, 
+  "201346444": {
+   "__tuple__": true, 
+   "items": [
+    "Njx-np6LEeyFL6S7bUruzf", 
+    3
+   ]
+  }, 
+  "201383918": {
+   "__tuple__": true, 
+   "items": [
+    "Njx-np6LEeyFL6S7bUruzf", 
+    4
+   ]
+  }, 
+  "201361486": {
+   "__tuple__": true, 
+   "items": [
+    "Njx-np6LEeyFL6S7bUruzf", 
+    5
+   ]
+  }, 
+  "201387033": {
+   "__tuple__": true, 
+   "items": [
+    "Njx-np6LEeyFL6S7bUruzf", 
+    6
+   ]
+  }, 
+  "201374875": {
+   "__tuple__": true, 
+   "items": [
+    "Njx-np6LEeyFL6S7bUruzf", 
+    7
+   ]
+  }, 
+  "201372630": {
+   "__tuple__": true, 
+   "items": [
+    "Njx-np6LEeyFL6S7bUruzf", 
+    8
+   ]
+  }, 
+  "201359815": {
+   "__tuple__": true, 
+   "items": [
+    "Njx-np6LEeyFL6S7bUruzf", 
+    9
+   ]
+  }, 
+  "201368865": {
+   "__tuple__": true, 
+   "items": [
+    "Njx-np6LEeyFL6S7bUruzf", 
+    10
+   ]
+  }, 
+  "201330118": {
+   "__tuple__": true, 
+   "items": [
+    "wFTXodfeEeyNNAAFmjx6AI", 
+    0
+   ]
+  }, 
+  "201348249": {
+   "__tuple__": true, 
+   "items": [
+    "wFTXodfeEeyNNAAFmjx6AI", 
+    1
+   ]
+  }, 
+  "201343522": {
+   "__tuple__": true, 
+   "items": [
+    "wFTXodfeEeyNNAAFmjx6AI", 
+    2
+   ]
+  }, 
+  "201370841": {
+   "__tuple__": true, 
+   "items": [
+    "wFTXodfeEeyNNAAFmjx6AI", 
+    3
+   ]
+  }, 
+  "201358653": {
+   "__tuple__": true, 
+   "items": [
+    "5QLaHs3KEey2QAD-b5T0QE", 
+    0
+   ]
+  }, 
+  "201359244": {
+   "__tuple__": true, 
+   "items": [
+    "5QLaHs3KEey2QAD-b5T0QE", 
+    1
+   ]
+  }, 
+  "201358955": {
+   "__tuple__": true, 
+   "items": [
+    "5QLaHs3KEey2QAD-b5T0QE", 
+    2
+   ]
+  }, 
+  "201375441": {
+   "__tuple__": true, 
+   "items": [
+    "5QLaHs3KEey2QAD-b5T0QE", 
+    3
+   ]
+  }, 
+  "201370622": {
+   "__tuple__": true, 
+   "items": [
+    "5QLaHs3KEey2QAD-b5T0QE", 
+    4
+   ]
+  }, 
+  "201362634": {
+   "__tuple__": true, 
+   "items": [
+    "5QLaHs3KEey2QAD-b5T0QE", 
+    5
+   ]
+  }, 
+  "201380459": {
+   "__tuple__": true, 
+   "items": [
+    "5QLaHs3KEey2QAD-b5T0QE", 
+    6
+   ]
+  }, 
+  "134251627": {
+   "__tuple__": true, 
+   "items": [
+    "xJp1z8FoEe2uIQC+Q4yk9Q", 
+    0
+   ]
+  }, 
+  "134237985": {
+   "__tuple__": true, 
+   "items": [
+    "xJp1z8FoEe2uIQC+Q4yk9Q", 
+    1
+   ]
+  }, 
+  "134267619": {
+   "__tuple__": true, 
+   "items": [
+    "xJp1z8FoEe2uIQC+Q4yk9Q", 
+    2
+   ]
+  }, 
+  "134253276": {
+   "__tuple__": true, 
+   "items": [
+    "xJp1z8FoEe2uIQC+Q4yk9Q", 
+    3
+   ]
+  }, 
+  "134250322": {
+   "__tuple__": true, 
+   "items": [
+    "xJp1z8FoEe2uIQC+Q4yk9Q", 
+    4
+   ]
+  }, 
+  "134231984": {
+   "__tuple__": true, 
+   "items": [
+    "xJp1z8FoEe2uIQC+Q4yk9Q", 
+    5
+   ]
+  }, 
+  "134257738": {
+   "__tuple__": true, 
+   "items": [
+    "xJp1z8FoEe2uIQC+Q4yk9Q", 
+    6
+   ]
+  }, 
+  "134274826": {
+   "__tuple__": true, 
+   "items": [
+    "xJp1z8FoEe2uIQC+Q4yk9Q", 
+    7
+   ]
+  }, 
+  "134239167": {
+   "__tuple__": true, 
+   "items": [
+    "xJp1z8FoEe2uIQC+Q4yk9Q", 
+    8
+   ]
+  }, 
+  "134218577": {
+   "__tuple__": true, 
+   "items": [
+    "xJp1z8FoEe2uIQC+Q4yk9Q", 
+    9
+   ]
+  }, 
+  "134225875": {
+   "__tuple__": true, 
+   "items": [
+    "xJp1z8FoEe2uIQC+Q4yk9Q", 
+    10
+   ]
+  }, 
+  "134238061": {
+   "__tuple__": true, 
+   "items": [
+    "xJp1z8FoEe2uIQC+Q4yk9Q", 
+    11
+   ]
+  }, 
+  "134223306": {
+   "__tuple__": true, 
+   "items": [
+    "xJp1z8FoEe2uIQC+Q4yk9Q", 
+    12
+   ]
+  }, 
+  "134261711": {
+   "__tuple__": true, 
+   "items": [
+    "xJp1z8FoEe2uIQC+Q4yk9Q", 
+    13
+   ]
+  }, 
+  "201339863": {
+   "__tuple__": true, 
+   "items": [
+    2147483646, 
+    9
+   ]
+  }, 
+  "134258647": {
+   "__tuple__": true, 
+   "items": [
+    2147483647, 
+    0
+   ]
+  }, 
+  "134254703": {
+   "__tuple__": true, 
+   "items": [
+    2147483647, 
+    1
+   ]
+  }, 
+  "134275366": {
+   "__tuple__": true, 
+   "items": [
+    2147483647, 
+    2
+   ]
+  }, 
+  "134268081": {
+   "__tuple__": true, 
+   "items": [
+    2147483647, 
+    3
+   ]
+  }, 
+  "134274253": {
+   "__tuple__": true, 
+   "items": [
+    2147483647, 
+    4
+   ]
+  }, 
+  "134232084": {
+   "__tuple__": true, 
+   "items": [
+    2147483647, 
+    5
+   ]
+  }, 
+  "134281801": {
+   "__tuple__": true, 
+   "items": [
+    2147483647, 
+    6
+   ]
+  }
+ }
+}

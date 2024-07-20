@@ -1,0 +1,7 @@
+{
+    "Attack.json": 2, 
+    "Dodge.json": 4, 
+    "Move.json": 0, 
+    "MoveUpdate.json": 1, 
+    "SPAttack.json": 3
+}

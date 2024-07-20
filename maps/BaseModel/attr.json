@@ -1,0 +1,100 @@
+{
+    "b": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "mp_rec", 
+                {
+                    "default": 1.0, 
+                    "desc": "code_explorer_unit_mp_rec", 
+                    "maximun": 1000000000.0, 
+                    "minimun": -1000000000.0
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "pene_phy_ratio", 
+                {
+                    "default": 0.0, 
+                    "desc": "code_explorer_unit_pene_phy_ratio", 
+                    "maximun": 100.0, 
+                    "minimun": 0.0
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "dodge_rate", 
+                {
+                    "default": 0.0, 
+                    "desc": "code_explorer_unit_dodge_rate", 
+                    "maximun": 1000000000.0, 
+                    "minimun": -1000000000.0
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "pene_phy", 
+                {
+                    "default": 0.0, 
+                    "desc": "code_explorer_unit_pene_phy", 
+                    "maximun": 1000000000.0, 
+                    "minimun": 0.0
+                }
+            ]
+        }
+    ], 
+    "c": [], 
+    "p": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "strength", 
+                {
+                    "d": "\u529b\u91cf", 
+                    "k": "strength", 
+                    "m": []
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "agility", 
+                {
+                    "d": "\u654f\u6377", 
+                    "k": "agility", 
+                    "m": []
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "intelligence", 
+                {
+                    "d": "\u667a\u529b", 
+                    "k": "intelligence", 
+                    "m": []
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "main", 
+                {
+                    "d": "\u4e3b\u5c5e\u6027", 
+                    "k": "main", 
+                    "m": []
+                }
+            ]
+        }
+    ], 
+    "ps": 1
+}

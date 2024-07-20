@@ -1,0 +1,205 @@
+{
+    "ability_break_cast_range": {
+        "__tuple__": true, 
+        "items": [
+            "10000"
+        ]
+    }, 
+    "ability_bw_point": 0.5, 
+    "ability_cast_point": 0.2, 
+    "ability_cast_range": {
+        "__tuple__": true, 
+        "items": [
+            "50"
+        ]
+    }, 
+    "ability_cast_type": 4, 
+    "ability_channel_time": 0.5, 
+    "ability_cost": {
+        "__tuple__": true, 
+        "items": [
+            " 0"
+        ]
+    }, 
+    "ability_damage": {
+        "__tuple__": true, 
+        "items": [
+            "50"
+        ]
+    }, 
+    "ability_damage_range": {
+        "__tuple__": true, 
+        "items": [
+            "50"
+        ]
+    }, 
+    "ability_icon": 104019, 
+    "ability_max_level": 1, 
+    "ability_max_stack_count": {
+        "__tuple__": true, 
+        "items": [
+            "0"
+        ]
+    }, 
+    "ability_prepare_time": 0.15, 
+    "ability_stack_cd": {
+        "__tuple__": true, 
+        "items": [
+            "0"
+        ]
+    }, 
+    "allow_none_target": false, 
+    "arrow_length": {
+        "__tuple__": true, 
+        "items": [
+            "5"
+        ]
+    }, 
+    "arrow_width": {
+        "__tuple__": true, 
+        "items": [
+            "2"
+        ]
+    }, 
+    "art_resource_btn": null, 
+    "auto_pick": true, 
+    "bs_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "bs_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "build_list": {
+        "__tuple__": true, 
+        "items": [
+            201330118
+        ]
+    }, 
+    "build_unit": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "can_bs_interrupt": true, 
+    "can_cache": true, 
+    "can_cast_interrupt": true, 
+    "can_interrupt_others": true, 
+    "can_prepare_interrupt": true, 
+    "can_ps_interrupt": true, 
+    "circle_radius": {
+        "__tuple__": true, 
+        "items": [
+            "5"
+        ]
+    }, 
+    "cold_down_time": {
+        "__tuple__": true, 
+        "items": [
+            "10"
+        ]
+    }, 
+    "collection_animation": "", 
+    "collection_animation_loop": true, 
+    "collection_continuously": true, 
+    "collection_destructible_tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "cst_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "cst_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "description": -1478355360, 
+    "end_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "end_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "filter_condition_camp": 5, 
+    "filter_condition_type": 7, 
+    "hit_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "hit_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "influenced_by_cd_reduce": true, 
+    "influenced_by_move": true, 
+    "is_build": true, 
+    "is_charge_ability": false, 
+    "is_immediate": false, 
+    "is_meele": false, 
+    "key": 1212, 
+    "kv": {}, 
+    "magicbook_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "name": -516167662, 
+    "need_turn_to_target": true, 
+    "player_props_cost": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "precondition_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "ps_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "ps_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_immediately_out_of_range": true, 
+    "required_level": {
+        "formula": "", 
+        "required_levels": {
+            "__tuple__": true, 
+            "items": [
+                1
+            ]
+        }
+    }, 
+    "sector_angle": {
+        "__tuple__": true, 
+        "items": [
+            "2"
+        ]
+    }, 
+    "sector_radius": {
+        "__tuple__": true, 
+        "items": [
+            "10"
+        ]
+    }, 
+    "sight_type": 6, 
+    "sp_count_down": false, 
+    "sp_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "sp_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "suffix": "", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "target_attribute": 0, 
+    "uid": "1212"
+}

@@ -1,0 +1,40 @@
+{
+    "names": {
+        "32": "\u5730\u9762\u78b0\u649e", 
+        "64": "\u98de\u884c\u78b0\u649e", 
+        "128": "\u6c34\u4f53\u78b0\u649e", 
+        "256": "\u6446\u4ef6\u78b0\u649e"
+    }, 
+    "orders": [
+        32, 
+        64, 
+        128, 
+        256
+    ], 
+    "relations": {
+        "32": [
+            true, 
+            false, 
+            false, 
+            false
+        ], 
+        "64": [
+            false, 
+            true, 
+            false, 
+            false
+        ], 
+        "128": [
+            false, 
+            false, 
+            true, 
+            false
+        ], 
+        "256": [
+            false, 
+            false, 
+            false, 
+            true
+        ]
+    }
+}

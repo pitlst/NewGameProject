@@ -1,0 +1,41 @@
+{
+    "adapt_mode": 2, 
+    "anim_data": {}, 
+    "children": [
+        {
+            "children": [], 
+            "event_list": [], 
+            "name": "mini_map_1", 
+            "opacity": 0.5, 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    1798.0, 
+                    956.0, 
+                    93.6458, 
+                    88.5185, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    200.0, 
+                    200.0
+                ]
+            }, 
+            "type": 16, 
+            "uid": "mini_map_1"
+        }
+    ], 
+    "name": "GUD", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "GUD", 
+    "visible": true, 
+    "zorder": 400
+}

@@ -1,0 +1,356 @@
+{
+    "ability_break_cast_range": {
+        "__tuple__": true, 
+        "items": [
+            "10000"
+        ]
+    }, 
+    "ability_bw_point": 0.5, 
+    "ability_cast_point": 0.2, 
+    "ability_cast_range": {
+        "__tuple__": true, 
+        "items": [
+            "10.0"
+        ]
+    }, 
+    "ability_cast_type": 2, 
+    "ability_channel_time": 0.0, 
+    "ability_cost": {
+        "__tuple__": true, 
+        "items": [
+            "5"
+        ]
+    }, 
+    "ability_damage": {
+        "__tuple__": true, 
+        "items": [
+            "5"
+        ]
+    }, 
+    "ability_damage_range": {
+        "__tuple__": true, 
+        "items": [
+            "0.0"
+        ]
+    }, 
+    "ability_icon": 100504, 
+    "ability_max_level": 5, 
+    "ability_max_stack_count": {
+        "__tuple__": true, 
+        "items": [
+            "0"
+        ]
+    }, 
+    "ability_prepare_time": 0.0, 
+    "ability_stack_cd": {
+        "__tuple__": true, 
+        "items": [
+            "0"
+        ]
+    }, 
+    "arrow_length": {
+        "__tuple__": true, 
+        "items": [
+            "5"
+        ]
+    }, 
+    "arrow_width": {
+        "__tuple__": true, 
+        "items": [
+            "2"
+        ]
+    }, 
+    "auto_pick": true, 
+    "bs_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "bs_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "build_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "bw_ignore_ability_command": false, 
+    "bw_ignore_move_command": false, 
+    "bw_move_interrupt": true, 
+    "can_bs_interrupt": true, 
+    "can_cache": true, 
+    "can_cast_interrupt": false, 
+    "can_interrupt_others": true, 
+    "can_prepare_interrupt": false, 
+    "can_ps_interrupt": true, 
+    "cast_ignore_ability_command": true, 
+    "cast_ignore_move_command": true, 
+    "cast_move_interrupt": false, 
+    "circle_radius": {
+        "__tuple__": true, 
+        "items": [
+            "5"
+        ]
+    }, 
+    "cold_down_time": {
+        "__tuple__": true, 
+        "items": [
+            "5"
+        ]
+    }, 
+    "collection_animation": "", 
+    "collection_animation_loop": true, 
+    "collection_continuously": true, 
+    "collection_destructible_tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "csp_ignore_ability_command": false, 
+    "csp_ignore_move_command": false, 
+    "csp_move_interrupt": true, 
+    "cst_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "cst_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "description": 974631126, 
+    "end_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "end_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "filter_condition_camp": 5, 
+    "filter_condition_type": 7, 
+    "hit_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "hit_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "influenced_by_cd_reduce": true, 
+    "influenced_by_move": true, 
+    "is_charge_ability": false, 
+    "is_immediate": false, 
+    "is_meele": false, 
+    "key": 201349964, 
+    "kv": {
+        "AdditionalDamage": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "AdditionalDamage", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "type": 24, 
+            "value": {
+                "__tuple__": true, 
+                "items": [
+                    "lambda unit: Fix32(30)+Fix32(10)*Fix32(unit.ability_level)+Fix32(0.2)*Fix32(unit.ability_source.api_get_float_attr('attack_mag'))", 
+                    [
+                        [
+                            "level"
+                        ], 
+                        [
+                            "ability_source", 
+                            "ATTR_RESULT", 
+                            "attack_mag"
+                        ]
+                    ], 
+                    "lambda unit: Fix32(30)+Fix32(10)*Fix32(unit.ability_level)+Fix32(0.2)*Fix32(unit.ability_source.api_get_float_attr('attack_mag'))", 
+                    {
+                        "ability.cur_ability.ability_level": {
+                            "is_cm": false
+                        }, 
+                        "unit.ability_source.ATTR_RESULT.attack_mag": {
+                            "is_cm": false
+                        }
+                    }, 
+                    [
+                        [
+                            "ability", 
+                            "cur_ability", 
+                            "ability_level"
+                        ], 
+                        [
+                            "unit", 
+                            "ability_source", 
+                            "ATTR_RESULT", 
+                            "attack_mag"
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        "AttackSpeedBonus": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "AttackSpeedBonus", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "type": 24, 
+            "value": {
+                "__tuple__": true, 
+                "items": [
+                    "lambda unit: Fix32(4)+Fix32(6)*Fix32(unit.ability_level)", 
+                    [
+                        [
+                            "level"
+                        ]
+                    ], 
+                    "lambda unit: Fix32(4)+Fix32(6)*Fix32(unit.ability_level)", 
+                    {
+                        "ability.cur_ability.ability_level": {
+                            "is_cm": false
+                        }
+                    }, 
+                    [
+                        [
+                            "ability", 
+                            "cur_ability", 
+                            "ability_level"
+                        ]
+                    ]
+                ]
+            }
+        }, 
+        "MoveSpeedBonus": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "MoveSpeedBonus", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "type": 1, 
+            "value": 20.0
+        }, 
+        "duration": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "duration", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "type": 24, 
+            "value": {
+                "__tuple__": true, 
+                "items": [
+                    "lambda unit: Fix32(3)+Fix32(0.25)*(Fix32(unit.ability_level)-Fix32(1))", 
+                    [
+                        [
+                            "level"
+                        ]
+                    ], 
+                    "lambda unit: Fix32(3)+Fix32(0.25)*(Fix32(unit.ability_level)-Fix32(1))", 
+                    {
+                        "ability.cur_ability.ability_level": {
+                            "is_cm": false
+                        }
+                    }, 
+                    [
+                        [
+                            "ability", 
+                            "cur_ability", 
+                            "ability_level"
+                        ]
+                    ]
+                ]
+            }
+        }
+    }, 
+    "magicbook_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "name": -767976202, 
+    "need_turn_to_target": true, 
+    "player_props_cost": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "precondition_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "prepare_ignore_ability_command": true, 
+    "prepare_ignore_move_command": true, 
+    "prepare_move_interrupt": false, 
+    "ps_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "ps_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_immediately_out_of_range": false, 
+    "required_level": {
+        "formula": {
+            "__tuple__": true, 
+            "items": [
+                "lambda unit: -Fix32(1)+Fix32(2)*Fix32(unit.level)", 
+                [
+                    "level"
+                ], 
+                "lambda unit: -Fix32(1)+Fix32(2)*Fix32(unit.level)", 
+                {
+                    "ability_learn.cur_ability.level": {
+                        "is_cm": false
+                    }
+                }, 
+                [
+                    [
+                        "ability_learn", 
+                        "cur_ability", 
+                        "level"
+                    ]
+                ]
+            ]
+        }, 
+        "required_levels": {
+            "__tuple__": true, 
+            "items": [
+                1, 
+                3, 
+                5, 
+                7, 
+                9
+            ]
+        }
+    }, 
+    "sector_radian": 2, 
+    "sector_radius": {
+        "__tuple__": true, 
+        "items": [
+            "10"
+        ]
+    }, 
+    "sight_type": 0, 
+    "sound_event_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "sp_count_down": false, 
+    "sp_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "sp_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "suffix": "", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "target_attribute": 0, 
+    "uid": "201349964"
+}

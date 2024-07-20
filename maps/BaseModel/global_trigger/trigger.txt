@@ -1,0 +1,25 @@
+{
+    "group": [], 
+    "key": -1, 
+    "key_order": {
+        "uunLMMX7EeyrVqS7bUqLAh": 0, 
+        "x2uk4eGVEeyIhKS7bULSKA": 2
+    }, 
+    "name": "trigger", 
+    "sub_trigger": {
+        "1": {
+            "__tuple__": true, 
+            "items": [
+                930414606, 
+                "\u53d1\u5c04\u706b\u7403"
+            ]
+        }, 
+        "3": {
+            "__tuple__": true, 
+            "items": [
+                902119446, 
+                "\u5237\u65b0\u73a9\u5bb6\u7684\u79fb\u52a8\u72b6\u6001"
+            ]
+        }
+    }
+}

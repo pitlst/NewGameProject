@@ -1,0 +1,115 @@
+{
+    "camp": {
+        "1": {
+            "camp_name": "$faction 1", 
+            "camp_name_en": "$faction 1", 
+            "camp_name_zh": "\u52bf\u529b 1", 
+            "least_num": 0, 
+            "roles": [
+                1, 
+                2, 
+                3, 
+                4
+            ], 
+            "share_vision": false
+        }, 
+        "30": {
+            "camp_name": "$code_camp_referee", 
+            "camp_name_en": "Observer", 
+            "camp_name_zh": "\u88c1\u5224", 
+            "least_num": 0, 
+            "roles": [], 
+            "share_vision": true
+        }, 
+        "9999": {
+            "camp_name": "$faction 9999", 
+            "camp_name_en": "$faction 9999", 
+            "camp_name_zh": "\u4e2d\u7acb", 
+            "least_num": 0, 
+            "roles": [
+                31, 
+                32
+            ], 
+            "share_vision": false
+        }
+    }, 
+    "camp_limit": 1, 
+    "role": {
+        "1": {
+            "camp_id": 1, 
+            "role_color": "#FF0000", 
+            "role_name": "$player 1", 
+            "role_name_en": "$player 1", 
+            "role_name_zh": "Player 1", 
+            "role_type": 1
+        }, 
+        "2": {
+            "camp_id": 1, 
+            "role_color": "#330000", 
+            "role_name": "$player 2", 
+            "role_name_en": "$player 2", 
+            "role_name_zh": "\u73a9\u5bb6 2", 
+            "role_type": 1
+        }, 
+        "3": {
+            "camp_id": 1, 
+            "role_color": "#808080", 
+            "role_name": "$player 3", 
+            "role_name_en": "$player 3", 
+            "role_name_zh": "\u73a9\u5bb6 3", 
+            "role_type": 1
+        }, 
+        "4": {
+            "camp_id": 1, 
+            "role_color": "#0000FF", 
+            "role_name": "$player 4", 
+            "role_name_en": "$player 4", 
+            "role_name_zh": "\u73a9\u5bb6 4", 
+            "role_type": 1
+        }, 
+        "31": {
+            "camp_id": 9999, 
+            "role_color": "#808080", 
+            "role_name": "$player 31", 
+            "role_name_en": "$player 31", 
+            "role_name_zh": "\u4e2d\u7acb \u654c\u5bf9", 
+            "role_type": 2
+        }, 
+        "32": {
+            "camp_id": 9999, 
+            "role_color": "#808080", 
+            "role_name": "$player 32", 
+            "role_name_en": "$player 32", 
+            "role_name_zh": "\u4e2d\u7acb \u53cb\u5584", 
+            "role_type": 2
+        }
+    }, 
+    "role_res_types": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "official_res_1", 
+                {
+                    "default": [
+                        0, 
+                        0
+                    ], 
+                    "desc": "gold", 
+                    "icon_id": 100000, 
+                    "is_coin": true, 
+                    "is_editored": true, 
+                    "key": "official_res_1", 
+                    "maximun": [
+                        1000000, 
+                        0
+                    ], 
+                    "minimun": [
+                        0, 
+                        0
+                    ], 
+                    "name": "gold"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "action": [
+        {
+            "action_type": "CALL_TRIGGER_FUNC", 
+            "args_list": [
+                {
+                    "arg_type": 100177, 
+                    "args_list": [
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100025, 
+                                    "args_list": [], 
+                                    "sub_type": "TRIGGER_PLAYER"
+                                }
+                            ], 
+                            "sub_type": "PLAYER_ID_NUMBER"
+                        }
+                    ], 
+                    "op_arg": [], 
+                    "op_arg_enable": [], 
+                    "sub_type": "9441fa11f75711ec8a6aa4bb6d41b622"
+                }
+            ], 
+            "bp": false, 
+            "call_rt_arg_idxes": [], 
+            "element_id": 17830215780891, 
+            "enable": true
+        }
+    ], 
+    "call_enabled": true, 
+    "condition": [], 
+    "enabled": true, 
+    "event": [
+        [
+            17830215780894, 
+            "此触发器用于响应玩家的按键事件，当玩家按下移动键时，玩家的移动状态会立即刷新", 
+            1783021578, 
+            "event_type"
+        ], 
+        {
+            "args_list": [
+                {
+                    "arg_type": 200220, 
+                    "args_list": [
+                        17
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "element_id": 17865605140002, 
+            "enable": true, 
+            "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+        }, 
+        {
+            "args_list": [
+                {
+                    "arg_type": 200220, 
+                    "args_list": [
+                        30
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "element_id": 17865605140020, 
+            "enable": true, 
+            "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+        }, 
+        {
+            "args_list": [
+                {
+                    "arg_type": 200220, 
+                    "args_list": [
+                        31
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "element_id": 17830215780185, 
+            "enable": true, 
+            "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+        }, 
+        {
+            "args_list": [
+                {
+                    "arg_type": 200220, 
+                    "args_list": [
+                        32
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "element_id": 17865605140017, 
+            "enable": true, 
+            "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+        }, 
+        {
+            "args_list": [
+                {
+                    "arg_type": 200220, 
+                    "args_list": [
+                        17
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "element_id": 17830215780895, 
+            "enable": true, 
+            "event_type": "KEYBOARD_KEY_UP_EVENT"
+        }, 
+        {
+            "args_list": [
+                {
+                    "arg_type": 200220, 
+                    "args_list": [
+                        30
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "element_id": 17830215780910, 
+            "enable": true, 
+            "event_type": "KEYBOARD_KEY_UP_EVENT"
+        }, 
+        {
+            "args_list": [
+                {
+                    "arg_type": 200220, 
+                    "args_list": [
+                        31
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "element_id": 17830215780907, 
+            "enable": true, 
+            "event_type": "KEYBOARD_KEY_UP_EVENT"
+        }, 
+        {
+            "args_list": [
+                {
+                    "arg_type": 200220, 
+                    "args_list": [
+                        32
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "element_id": 17830215780904, 
+            "enable": true, 
+            "event_type": "KEYBOARD_KEY_UP_EVENT"
+        }
+    ], 
+    "group_id": "uunLMMX7EeyrVqS7bUqLAh", 
+    "p_trigger_id": null, 
+    "trigger_id": 1783021578, 
+    "trigger_name": "Move", 
+    "valid": true, 
+    "var_data": [
+        {
+            "ANGLE": {}, 
+            "FLOAT": {}, 
+            "INTEGER": {}, 
+            "PLAYER": {}, 
+            "POINT": {}
+        }, 
+        {}, 
+        []
+    ]
+}

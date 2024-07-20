@@ -1,0 +1,142 @@
+{
+    "async_effect": false, 
+    "description": 1640884219, 
+    "effect_button": null, 
+    "effect_foes": {
+        "__tuple__": true, 
+        "items": [
+            102172, 
+            [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            1.0, 
+            {
+                "anim": "idle1", 
+                "base_color_mod": 1, 
+                "base_tint_color": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ], 
+                "is_loop": true, 
+                "model": 103014, 
+                "model_opacity": 1, 
+                "offset": [
+                    0, 
+                    0, 
+                    0
+                ], 
+                "rotate": [
+                    0, 
+                    0, 
+                    0
+                ], 
+                "scale": [
+                    1, 
+                    1, 
+                    1
+                ], 
+                "use_base_tint_color": false
+            }
+        ]
+    }, 
+    "effect_friend": {
+        "__tuple__": true, 
+        "items": [
+            102172, 
+            [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            [
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            [
+                1.0, 
+                1.0, 
+                1.0
+            ], 
+            1.0, 
+            {
+                "anim": "idle1", 
+                "base_color_mod": 1, 
+                "base_tint_color": [
+                    255, 
+                    255, 
+                    255, 
+                    0.5
+                ], 
+                "is_loop": true, 
+                "model": 103014, 
+                "model_opacity": 1, 
+                "offset": [
+                    0, 
+                    0, 
+                    0
+                ], 
+                "rotate": [
+                    0, 
+                    0, 
+                    0
+                ], 
+                "scale": [
+                    1, 
+                    1, 
+                    1
+                ], 
+                "use_base_tint_color": false
+            }
+        ]
+    }, 
+    "enemy_friend_switch": 1, 
+    "icon": 101118, 
+    "key": 201347802, 
+    "kv": {}, 
+    "max_duration": 60, 
+    "move_channel": 0, 
+    "move_limitation": 1, 
+    "name": 1119644188, 
+    "projectile_fx": 101043, 
+    "projectile_fx_enemy": 0, 
+    "projectile_fx_scale_aks": 1.0, 
+    "projectile_fx_scale_aks_enemy": 1.2, 
+    "projectile_fx_scale_y": 1.0, 
+    "projectile_fx_scale_y_enemy": 1.2, 
+    "projectile_fx_scale_z": 1.0, 
+    "projectile_fx_scale_z_enemy": 1.2, 
+    "sfx_frame_rate": 1.0, 
+    "sfx_frame_rate_enemy": 1.2, 
+    "sfx_loop": false, 
+    "sfx_rotate_y": 0.0, 
+    "sfx_rotate_y_enemy": 1.2, 
+    "sfx_rotation_aks": 0.0, 
+    "sfx_rotation_aks_enemy": 1.2, 
+    "sfx_rotation_z": 0.0, 
+    "sfx_rotation_z_enemy": 1.2, 
+    "sound_event_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "suffix": "", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "uid": "201347802"
+}

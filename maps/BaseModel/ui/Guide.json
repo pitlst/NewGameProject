@@ -1,0 +1,68 @@
+{
+    "adapt_mode": 2, 
+    "anim_data": {}, 
+    "children": [
+        {
+            "adapter_option": [
+                true, 
+                false, 
+                true, 
+                true, 
+                180.0, 
+                900.0, 
+                600.0, 
+                600.0
+            ], 
+            "alignment": {
+                "__tuple__": true, 
+                "items": [
+                    2, 
+                    8
+                ]
+            }, 
+            "children": [], 
+            "event_list": [], 
+            "name": "GuideTips", 
+            "open_adapter": true, 
+            "over_pattern": true, 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    900.0, 
+                    50.0, 
+                    83.3333, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    720.0, 
+                    0.0
+                ]
+            }, 
+            "text": {
+                "__tuple__": true, 
+                "items": [
+                    "", 
+                    false
+                ]
+            }, 
+            "type": 3, 
+            "typewriter_effect": 1, 
+            "typewriter_space": 0.03, 
+            "uid": "7cb0f4bb-5d7f-40e2-8acb-c57a91299a17"
+        }
+    ], 
+    "name": "Guide", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "panel_1", 
+    "visible": true, 
+    "zorder": 400
+}

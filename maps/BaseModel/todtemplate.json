@@ -1,0 +1,24 @@
+{
+    "300001": {
+        "8": {
+            "EnableBlend": true, 
+            "Longitude": 53.0, 
+            "RotationY": 240.0, 
+            "SkyLightBaseColor": [
+                255.0, 
+                255.0, 
+                255.0, 
+                1.0
+            ], 
+            "SkyLightIntensityScale": 0.75, 
+            "SunColor": [
+                232.00000137090683, 
+                245.00000059604645, 
+                184.00000423192978
+            ], 
+            "SunColorIntensity": 8.5, 
+            "TextureIdx": 100001, 
+            "time": 8.0
+        }
+    }
+}

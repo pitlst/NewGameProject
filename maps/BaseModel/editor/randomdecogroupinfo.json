@@ -1,0 +1,36 @@
+[
+ {
+  "name": "\u8349\u5730", 
+  "key": "gpdmz4giEe6RWQC+Q4zXP+", 
+  "group": [
+   {
+    "__tuple__": true, 
+    "items": [
+     103275, 
+     "\u8349", 
+     "editor_model", 
+     1
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     103227, 
+     "\u8349", 
+     "editor_model", 
+     1
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     103222, 
+     "\u8349", 
+     "editor_model", 
+     1
+    ]
+   }
+  ], 
+  "weight": 3
+ }
+]

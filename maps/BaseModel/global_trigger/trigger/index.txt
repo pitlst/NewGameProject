@@ -1,0 +1,4 @@
+{
+    "Game Mechanism.folder": 1, 
+    "OS.folder": 0
+}

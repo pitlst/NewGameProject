@@ -1,0 +1,17 @@
+{
+    "fresnel_color": [
+        255, 
+        0, 
+        0, 
+        1
+    ], 
+    "fresnel_emissive_color_strength": 0, 
+    "fresnel_exp": 1, 
+    "is_ability_target": true, 
+    "is_attacked": true, 
+    "is_collected": true, 
+    "is_selected": true, 
+    "kv": {}, 
+    "show_on_mini_map": true, 
+    "use_fresnel": false
+}

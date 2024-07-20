@@ -1,0 +1,252 @@
+{
+    "ability_break_cast_range": {
+        "__tuple__": true, 
+        "items": [
+            "10000"
+        ]
+    }, 
+    "ability_bw_point": 0.5, 
+    "ability_cast_point": 0.2, 
+    "ability_cast_range": {
+        "__tuple__": true, 
+        "items": [
+            "10.0"
+        ]
+    }, 
+    "ability_cast_type": 2, 
+    "ability_channel_time": 0.0, 
+    "ability_cost": {
+        "__tuple__": true, 
+        "items": [
+            "5"
+        ]
+    }, 
+    "ability_damage": {
+        "__tuple__": true, 
+        "items": [
+            "5"
+        ]
+    }, 
+    "ability_damage_range": {
+        "__tuple__": true, 
+        "items": [
+            "0.0"
+        ]
+    }, 
+    "ability_icon": 100868, 
+    "ability_max_level": 1, 
+    "ability_max_stack_count": {
+        "__tuple__": true, 
+        "items": [
+            "0"
+        ]
+    }, 
+    "ability_prepare_time": 0.0, 
+    "ability_stack_cd": {
+        "__tuple__": true, 
+        "items": [
+            "0"
+        ]
+    }, 
+    "arrow_length": {
+        "__tuple__": true, 
+        "items": [
+            "5"
+        ]
+    }, 
+    "arrow_width": {
+        "__tuple__": true, 
+        "items": [
+            "2"
+        ]
+    }, 
+    "auto_pick": true, 
+    "bs_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "bs_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "build_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "bw_ignore_ability_command": false, 
+    "bw_ignore_move_command": false, 
+    "bw_move_interrupt": true, 
+    "can_bs_interrupt": true, 
+    "can_cache": true, 
+    "can_cast_interrupt": false, 
+    "can_interrupt_others": true, 
+    "can_prepare_interrupt": false, 
+    "can_ps_interrupt": true, 
+    "cast_ignore_ability_command": true, 
+    "cast_ignore_move_command": true, 
+    "cast_move_interrupt": false, 
+    "circle_radius": {
+        "__tuple__": true, 
+        "items": [
+            "5"
+        ]
+    }, 
+    "cold_down_time": {
+        "__tuple__": true, 
+        "items": [
+            "5"
+        ]
+    }, 
+    "collection_animation": "", 
+    "collection_animation_loop": true, 
+    "collection_continuously": true, 
+    "collection_destructible_tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "csp_ignore_ability_command": false, 
+    "csp_ignore_move_command": false, 
+    "csp_move_interrupt": true, 
+    "cst_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "cst_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "description": -1271322951, 
+    "end_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "end_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "filter_condition_camp": 5, 
+    "filter_condition_type": 7, 
+    "hit_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "hit_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "influenced_by_cd_reduce": true, 
+    "influenced_by_move": true, 
+    "is_charge_ability": true, 
+    "is_immediate": false, 
+    "is_meele": false, 
+    "key": 201328151, 
+    "kv": {
+        "AttackConversionRate": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "AttackConversionRate", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "type": 1, 
+            "value": 2.0
+        }, 
+        "AttackTimes": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 1, 
+            "key": "AttackTimes", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "type": 2, 
+            "value": 3
+        }, 
+        "FocusRounds": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 1, 
+            "key": "FocusRounds", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "type": 2, 
+            "value": 3
+        }, 
+        "Intervals": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 2, 
+            "key": "Intervals", 
+            "prop_cls": "PFloat", 
+            "remark": "", 
+            "type": 1, 
+            "value": 1.0
+        }
+    }, 
+    "magicbook_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "name": 1605547805, 
+    "need_turn_to_target": true, 
+    "player_props_cost": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "precondition_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "prepare_ignore_ability_command": true, 
+    "prepare_ignore_move_command": true, 
+    "prepare_move_interrupt": false, 
+    "ps_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "ps_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_immediately_out_of_range": false, 
+    "required_level": {
+        "formula": "", 
+        "required_levels": {
+            "__tuple__": true, 
+            "items": [
+                1, 
+                2, 
+                3, 
+                4, 
+                5
+            ]
+        }
+    }, 
+    "sector_radian": 2, 
+    "sector_radius": {
+        "__tuple__": true, 
+        "items": [
+            "10"
+        ]
+    }, 
+    "sight_type": 4, 
+    "sound_event_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "sp_count_down": false, 
+    "sp_sfx_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "sp_sound_effect": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "suffix": "", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "target_attribute": 0, 
+    "uid": "201328151"
+}
