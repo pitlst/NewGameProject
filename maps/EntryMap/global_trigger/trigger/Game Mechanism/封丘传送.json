@@ -1,0 +1,55 @@
+{
+    "action": [
+        {
+            "action_type": "REQUEST_SWITCH_LEVEL", 
+            "args_list": [
+                {
+                    "arg_type": 900002, 
+                    "args_list": [
+                        "e2eebc0f-481e-11ef-9478-d8bbc11449e7"
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "bp": false, 
+            "element_id": 1961193535000044, 
+            "enable": true
+        }
+    ], 
+    "call_enabled": true, 
+    "condition": [], 
+    "enabled": true, 
+    "event": [
+        {
+            "args_list": [
+                {
+                    "arg_type": 100044, 
+                    "args_list": [
+                        1
+                    ], 
+                    "sub_type": 1
+                }, 
+                {
+                    "arg_type": 100009, 
+                    "args_list": [
+                        10019
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "element_id": 1961193535000001, 
+            "enable": true, 
+            "event_type": "UNIT_ANY_REGION_EVENT"
+        }
+    ], 
+    "group_id": "wEyL4ka9Ee+i89i7wRRJ51", 
+    "p_trigger_id": null, 
+    "trigger_id": 1961193535, 
+    "trigger_name": "封丘传送", 
+    "valid": true, 
+    "var_data": [
+        {}, 
+        {}, 
+        []
+    ]
+}

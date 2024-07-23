@@ -1,0 +1,4 @@
+{
+    "New trigger.json": 0, 
+    "UI.folder": 1
+}

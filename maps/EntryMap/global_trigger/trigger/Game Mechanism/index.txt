@@ -1,0 +1,5 @@
+{
+    "GameInitialization.json": 0, 
+    "区域传送.json": 2, 
+    "封丘传送.json": 1
+}

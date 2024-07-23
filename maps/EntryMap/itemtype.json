@@ -1,0 +1,300 @@
+{
+    "item": {
+        "40": {
+            "components": {
+                "attr": {
+                    "level": 1
+                }, 
+                "camp": {
+                    "role_id": 32
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "item_attached": {
+                    "custom_attached_ability": null, 
+                    "custom_attached_passive_abilities": null
+                }, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -38, 
+                                1580648653
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -24, 
+                                2580981035
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "custom_material_data": {}, 
+            "editor_component": {
+                "placed_lock": false, 
+                "placed_visibility": true, 
+                "use_obj_attrs": true
+            }, 
+            "entity_id": 201368973, 
+            "kv_component": {}, 
+            "name": "\u7ecf\u9a8c\u4e4b\u4e66", 
+            "pid": 2, 
+            "stack_cnt": 1, 
+            "type": 32, 
+            "unit_id": 40
+        }, 
+        "82": {
+            "components": {
+                "attr": {
+                    "level": 1
+                }, 
+                "camp": {
+                    "role_id": 32
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "item_attached": {
+                    "custom_attached_ability": null, 
+                    "custom_attached_passive_abilities": null
+                }, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -16, 
+                                3065888768
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                -58, 
+                                2455535616
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "custom_material_data": {}, 
+            "editor_component": {
+                "placed_lock": false, 
+                "placed_visibility": true, 
+                "use_obj_attrs": true
+            }, 
+            "entity_id": 201328391, 
+            "kv_component": {}, 
+            "name": "\u91d1\u5e01\u7bb1", 
+            "pid": 25, 
+            "stack_cnt": 1, 
+            "type": 32, 
+            "unit_id": 82
+        }, 
+        "99": {
+            "components": {
+                "attr": {
+                    "level": 1
+                }, 
+                "camp": {
+                    "role_id": 32
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "item_attached": {
+                    "custom_attached_ability": null, 
+                    "custom_attached_passive_abilities": null
+                }, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -15, 
+                                2632015872
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                49, 
+                                907444224
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "custom_material_data": {}, 
+            "editor_component": {
+                "placed_lock": false, 
+                "placed_visibility": true, 
+                "use_obj_attrs": true
+            }, 
+            "entity_id": 201335717, 
+            "kv_component": {}, 
+            "name": "\u5f3a\u6548\u6cbb\u7597\u836f\u6c34", 
+            "pid": 34, 
+            "stack_cnt": 1, 
+            "type": 32, 
+            "unit_id": 99
+        }, 
+        "101": {
+            "components": {
+                "attr": {
+                    "level": 1
+                }, 
+                "camp": {
+                    "role_id": 32
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "item_attached": {
+                    "custom_attached_ability": null, 
+                    "custom_attached_passive_abilities": null
+                }, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -55, 
+                                379469824
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                46, 
+                                3555885056
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "custom_material_data": {}, 
+            "editor_component": {
+                "placed_lock": false, 
+                "placed_visibility": true, 
+                "use_obj_attrs": true
+            }, 
+            "entity_id": 201335717, 
+            "kv_component": {}, 
+            "name": "\u5f3a\u6548\u6cbb\u7597\u836f\u6c34", 
+            "pid": 36, 
+            "stack_cnt": 1, 
+            "type": 32, 
+            "unit_id": 101
+        }
+    }
+}

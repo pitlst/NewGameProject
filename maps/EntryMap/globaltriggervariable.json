@@ -1,0 +1,43 @@
+{
+    "variable_dict": {
+        "INTEGER": {
+            "GLOBAL_BAG_MAX_NUM": 0
+        }, 
+        "NEW_TIMER": {}, 
+        "TABLE": {
+            "UI_Manager": null
+        }, 
+        "UNIT_ENTITY": {
+            "Player Unit": 0
+        }, 
+        "UNIT_NAME": {}
+    }, 
+    "variable_group_info": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "UI_Manager", 
+                "UI_Manager"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "GLOBAL_BAG_MAX_NUM", 
+                "GLOBAL_BAG_MAX_NUM"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "Player Unit", 
+                "Player Unit"
+            ]
+        }
+    ], 
+    "variable_length_dict": {
+        "GLOBAL_BAG_MAX_NUM": 0, 
+        "Player Unit": 10, 
+        "UI_Manager": 0
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "action": [], 
+    "call_enabled": true, 
+    "condition": [], 
+    "enabled": true, 
+    "event": [], 
+    "func_category": "t_function", 
+    "func_comment": "", 
+    "func_des": "函数描述{UnityGroup}", 
+    "func_id": "9de3b0e1472d11efb999d8bbc11449e7", 
+    "func_name": "刷怪点生效", 
+    "func_param_list": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "UnityGroup", 
+                true
+            ]
+        }
+    ], 
+    "group_id": 0, 
+    "is_func": true, 
+    "is_official_func": false, 
+    "p_trigger_id": null, 
+    "trigger_id": 832634944, 
+    "trigger_name": "刷怪点生效", 
+    "valid": true, 
+    "var_data": [
+        {
+            "ROUND_AREA": {}, 
+            "UNIT_GROUP": {
+                "UnityGroup": []
+            }
+        }, 
+        {
+            "UnityGroup": 0
+        }, 
+        [
+            "UnityGroup"
+        ]
+    ]
+}

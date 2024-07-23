@@ -1,0 +1,40 @@
+{
+    "adapt_mode": 2, 
+    "anim_data": {}, 
+    "children": [
+        {
+            "children": [], 
+            "event_list": [], 
+            "name": "GuideTips", 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    631.0, 
+                    725.0, 
+                    32.8646, 
+                    67.1296, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1020.7311, 
+                    -64.0076
+                ]
+            }, 
+            "type": 7, 
+            "uid": "034c9ce9-f86e-42f5-9a5e-c2ab79f2e018"
+        }
+    ], 
+    "name": "Guide", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "3edf1d16-150f-4991-8096-380047c17c17", 
+    "visible": true, 
+    "zorder": 400
+}
